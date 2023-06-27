@@ -42,3 +42,47 @@
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/68403f75-0924-4089-bf15-b66fd097a18a)
 
+![image](https://github.com/sajithten/Nexus/assets/110303586/c2266366-3bcb-42fa-a441-b7cf3f0db4bd)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/882cc368-3586-48f9-8a16-67fb7683c128)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/92764d13-5531-4234-a637-285ea1518a91)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/eceb1ecb-2eb6-44ea-903c-589c0416450d)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/1894b59a-862b-4470-9976-2ea8d4a90165)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/820f2c0e-27d9-4e9b-bf10-1fcad35d65ba)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/5390f7cf-7939-45c2-b161-a115fe46ff99)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/ec615b4b-1d58-4c5c-8564-3d645194c9d7)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/a5fe887c-8605-4ed0-aab1-c1e7df73a149)
+
+## Fabric Path
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/f91e2f61-fcba-4bb7-bfa9-8774cf0123e8)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/d772457f-0cae-4c51-971c-4e7f1aa2f15a)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/c2a6e62f-9e31-44e4-9e22-de1f1107080b)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/4baa746e-5920-401c-ac62-ecf221e1aadb)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/56eb68b8-596d-4189-8344-2a4512e7faf0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
