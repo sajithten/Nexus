@@ -31,6 +31,43 @@ N7K-01(config-port-prof)# switchport access vlan 10
 N7K-01(config-port-prof)# spanning-tree port type edge
 ```
 ## To check status of profile
+```
+show port-profile
+```
+## To enable the profile:
+```
+N7K-01(config-port-prof)# port-profile type ethernet <profile_name>
+N7K-01(config-port-prof)# state enabled
+```
+## To see VDC:
+```
+show vdc
+```
+## To create VDC:
+```
+configure terminal
+vdc <vdc_name>
+allocate interface ethernet 2/11
+```
+## To delete VDC:
+```
+no vdc <vdc_name>
+```
+## To configure HA policy in VDC:
+```
+ha-policy single_sup ?
+```
+## To see currently attached FEX units:
+```
+show fex
+```
+## To verify FEX:
+```
+show vpc
+show vpc peer-keepalive
+show port-channel summary
+```
+
                                                                
 ##  To check status of switch stack members
 ```
