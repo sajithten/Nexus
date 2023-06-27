@@ -39,3 +39,6 @@
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/a2fc2d28-f1e9-474f-b56a-cf2d89c507fc)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/8e65ee46-43b5-4777-9f2e-4f88f354bc7c)
+
+![image](https://github.com/sajithten/Nexus/assets/110303586/68403f75-0924-4089-bf15-b66fd097a18a)
+
