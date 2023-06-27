@@ -1,3 +1,4 @@
+$\mathbb{\color{lime}{ ABOUT NEXUS }}$
 ![image](https://github.com/sajithten/Nexus/assets/110303586/aa2e8f6d-6841-4ad1-8222-c556efdb624e)
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/cc273378-5904-40cc-a693-265850da2e48)
@@ -22,7 +23,7 @@
 ![image](https://github.com/sajithten/Nexus/assets/110303586/384e005f-877a-4dbd-a2bb-cd23bca8bcd9)
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/1bd9a29d-3352-4ddb-9435-ffa03a11b549)
-## VDC
+## $\mathbb{\color{red}{ VDC }}$
 ![image](https://github.com/sajithten/Nexus/assets/110303586/354ae84b-748b-498a-9729-07a1c3fb2a55)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/e90fe32b-84bb-4ad4-8fc6-4e39e74619f8)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/4d0f29e3-b375-4262-b829-65fa388b1c11)
@@ -30,7 +31,7 @@
 ![image](https://github.com/sajithten/Nexus/assets/110303586/9d5b7a22-3421-4a65-9c4d-896c7e16b869)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/a07858c3-fdcf-430f-847a-86a4062997fd)
 
-## FEX
+## $\mathbb{\color{red}{ FEX }}$
 ![image](https://github.com/sajithten/Nexus/assets/110303586/89167767-f8f5-413d-9145-fbb76589d181)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/9c295dc5-fe99-4116-a31d-a677fc7039c4)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/0dc686c7-967e-4258-9665-447a7b64b08c)
