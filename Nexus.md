@@ -30,12 +30,12 @@
 ![image](https://github.com/sajithten/Nexus/assets/110303586/9d5b7a22-3421-4a65-9c4d-896c7e16b869)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/a07858c3-fdcf-430f-847a-86a4062997fd)
 
-##FEX
+## FEX
 ![image](https://github.com/sajithten/Nexus/assets/110303586/89167767-f8f5-413d-9145-fbb76589d181)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/9c295dc5-fe99-4116-a31d-a677fc7039c4)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/0dc686c7-967e-4258-9665-447a7b64b08c)
 
-##VPC
+## VPC
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/a2fc2d28-f1e9-474f-b56a-cf2d89c507fc)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/8e65ee46-43b5-4777-9f2e-4f88f354bc7c)
