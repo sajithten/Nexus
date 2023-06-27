@@ -1,4 +1,4 @@
-$\mathbb{\color{lime}{ ABOUT NEXUS }}$
+## $\mathbb{\color{lime}{ ABOUT NEXUS }}$
 ![image](https://github.com/sajithten/Nexus/assets/110303586/aa2e8f6d-6841-4ad1-8222-c556efdb624e)
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/cc273378-5904-40cc-a693-265850da2e48)
