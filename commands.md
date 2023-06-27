@@ -22,7 +22,7 @@ username <name> password <password> role <role_name>
 ```
 N7K-01(config)# <role_name> port-profile type ethernet <profile_name>
 ```
-To apply config to profile:
+## To apply config to profile:
 ```
 N7K-01(config)# port-profile type ethernet <profile_name>
 N7K-01(config-port-prof)# no shutdown
@@ -30,7 +30,7 @@ N7K-01(config-port-prof)# switchport mode access
 N7K-01(config-port-prof)# switchport access vlan 10
 N7K-01(config-port-prof)# spanning-tree port type edge
 ```
-## To
+## To check status of profile
                                                                
 ##  To check status of switch stack members
 ```
