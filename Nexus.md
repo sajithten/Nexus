@@ -23,7 +23,7 @@
 ![image](https://github.com/sajithten/Nexus/assets/110303586/384e005f-877a-4dbd-a2bb-cd23bca8bcd9)
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/1bd9a29d-3352-4ddb-9435-ffa03a11b549)
-## $\mathbb{\color{blue}{ VDC }}$
+## $\mathbb{\color{orange}{ VDC }}$
 ![image](https://github.com/sajithten/Nexus/assets/110303586/354ae84b-748b-498a-9729-07a1c3fb2a55)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/e90fe32b-84bb-4ad4-8fc6-4e39e74619f8)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/4d0f29e3-b375-4262-b829-65fa388b1c11)
