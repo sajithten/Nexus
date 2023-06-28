@@ -61,7 +61,7 @@
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/a5fe887c-8605-4ed0-aab1-c1e7df73a149)
 
-## Fabric Path
+## $\mathbb{\color{red}{ Fabric Path }}$
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/f91e2f61-fcba-4bb7-bfa9-8774cf0123e8)
 
