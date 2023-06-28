@@ -36,7 +36,7 @@
 ![image](https://github.com/sajithten/Nexus/assets/110303586/9c295dc5-fe99-4116-a31d-a677fc7039c4)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/0dc686c7-967e-4258-9665-447a7b64b08c)
 
-## $\mathbb{\color{blue}{ VPC }}$
+## $\mathbb{\color{pink}{ VPC }}$
 
 ![image](https://github.com/sajithten/Nexus/assets/110303586/a2fc2d28-f1e9-474f-b56a-cf2d89c507fc)
 ![image](https://github.com/sajithten/Nexus/assets/110303586/8e65ee46-43b5-4777-9f2e-4f88f354bc7c)
